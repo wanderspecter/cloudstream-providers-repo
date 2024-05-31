@@ -1,0 +1,20 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/wanderspecter/cloudstream-providers-repo",
+        "fileSize": 12963,
+        "status": 1,
+        "authors": [
+            "WanderSpecter"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "MFanProvider",
+        "description": "Watch content from MFan",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
+        "name": "MFanProvider"
+    }
+]
