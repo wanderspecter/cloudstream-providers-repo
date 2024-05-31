@@ -5,13 +5,14 @@
         "repositoryUrl": "https://github.com/wanderspecter/cloudstream-providers-repo",
         "fileSize": 12963,
         "status": 1,
+        "language": "zh",
         "authors": [
             "WanderSpecter"
         ],
         "tvTypes": [
+            "AnimeMovie",
             "Anime"
         ],
-        "language": "zh",
         "version": 3,
         "internalName": "MFanProvider",
         "description": "Watch content from MFan",
