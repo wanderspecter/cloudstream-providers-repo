@@ -7,7 +7,7 @@
         "status": 1,
         "language": "zh",
         "authors": [
-            "邹超"
+            "wander-specter"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -15,7 +15,7 @@
         ],
         "version": 3,
         "internalName": "MFanProvider",
-        "description": "Watch content from MFan",
+        "description": "watch content from MFan",
         "url": "https://github.com/wanderspecter/cloudstream-providers-repo/raw/main/MengAnime.cs3",
         "name": "MFanProvider"
     }
