@@ -1,0 +1,8 @@
+{
+    "name": "MFan Provider",
+    "description": "MFan Provider zh",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
+    ]
+}
