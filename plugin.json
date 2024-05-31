@@ -1,6 +1,6 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "iconUrl": "https://tncache1-f1.v3mh.com/image/23-08-03/kimTC3UN3.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/wanderspecter/cloudstream-providers-repo",
         "fileSize": 12963,
@@ -11,6 +11,7 @@
         "tvTypes": [
             "Anime"
         ],
+        "language": "zh",
         "version": 3,
         "internalName": "MFanProvider",
         "description": "Watch content from MFan",
