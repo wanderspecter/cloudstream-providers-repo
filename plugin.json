@@ -18,5 +18,25 @@
         "description": "watch content from MFan",
         "url": "https://github.com/wanderspecter/cloudstream-providers-repo/raw/main/MengAnime.cs3",
         "name": "MFanProvider"
+    }, 
+    {
+        "iconUrl": "https://2rk.cc/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/wanderspecter/cloudstream-providers-repo",
+        "fileSize": 13600,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            "wander-specter"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "RKProvider",
+        "description": "watch content from Rkcc",
+        "url": "https://github.com/wanderspecter/cloudstream-providers-repo/raw/main/RKAnime.cs3",
+        "name": "RKProvider"
     }
 ]
